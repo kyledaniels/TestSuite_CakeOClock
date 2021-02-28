@@ -1,7 +1,5 @@
 # TestSuite_CakeOClock
 
-# A why-test-web-app
-
 A sample web app for exploratory and internal training purposes.
 
 ## Getting Started
